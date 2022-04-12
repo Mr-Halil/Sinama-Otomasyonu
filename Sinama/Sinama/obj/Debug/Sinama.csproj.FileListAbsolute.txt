@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Sinama\Sinama\bin\Debug\Sinama.exe.config
+C:\Users\Administrator\Desktop\Sinama\Sinama\bin\Debug\Sinama.exe
+C:\Users\Administrator\Desktop\Sinama\Sinama\bin\Debug\Sinama.pdb
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.Form1.resources
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.Form2.resources
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.exe
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.pdb
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.Form3.resources
+C:\Users\Administrator\Desktop\Sinama\Sinama\obj\Debug\Sinama.Form4.resources
